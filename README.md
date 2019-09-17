@@ -1,4 +1,4 @@
-# Luogu Benben AutoDeleter
+# Luogu Benben Deleter
 
 ## Feature
 
@@ -6,9 +6,11 @@
 
 ## 食用方法
 
-配合 [油猴](https://www.tampermonkey.net) 食用。需要修改 `13` 行的 `uid` 为自己的。
+需要安装 [油猴](https://www.tampermonkey.net) ，然后在 [Greasy Fork](https://greasyfork.org/scripts/390211-luogu-benben-deleter) 下载 。
 
-启用后首页右上角头像的右侧会出现一个勾，点击即可自动删除。
+启用后，点击左侧菜单栏 `应用 -> 清理犇犇` ，即可自动清理。
+
+> 注意：在题库等新页面无法使用，但首页和个人中心均有效。
 
 ## License
 
